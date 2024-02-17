@@ -1,9 +1,9 @@
 This repository features a collection of Python libraries including NumPy, Pandas, Matplotlib, and MySQL Connector, utilized to solve introductory-level data problems on small datasets. 
 It serves as a foundational resource for beginners to explore and apply fundamental concepts in data analysis and visualization.
 
-NumPy:
+>NumPy:
 
--Widely used for numerical computing and working with arrays.
+>Widely used for numerical computing and working with arrays.
 -Offers high-performance multidimensional array objects and tools for array manipulation.
 Provides mathematical functions for operations on arrays.
 Essential for tasks like linear algebra, Fourier analysis, and random number generation.
