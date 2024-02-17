@@ -3,8 +3,8 @@ It serves as a foundational resource for beginners to explore and apply fundamen
 
 NumPy:
 
-:Widely used for numerical computing and working with arrays.
-Offers high-performance multidimensional array objects and tools for array manipulation.
+-Widely used for numerical computing and working with arrays.
+-Offers high-performance multidimensional array objects and tools for array manipulation.
 Provides mathematical functions for operations on arrays.
 Essential for tasks like linear algebra, Fourier analysis, and random number generation.
 
