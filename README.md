@@ -10,21 +10,21 @@ It serves as a foundational resource for beginners to explore and apply fundamen
 
 >Pandas:
 
-Designed for data manipulation and analysis.
-Offers powerful data structures like Series and DataFrame for working with labeled and relational data.
-Provides functions and methods for data cleaning, transformation, and exploration.
-Facilitates tasks like data indexing, grouping, aggregation, and time series analysis.
+* Designed for data manipulation and analysis.
+* Offers powerful data structures like Series and DataFrame for working with labeled and relational data.
+* Provides functions and methods for data cleaning, transformation, and exploration.
+* Facilitates tasks like data indexing, grouping, aggregation, and time series analysis.
 
 >Matplotlib:
 
-Primary plotting library in Python for creating static, interactive, and animated visualizations.
-Offers a wide range of plotting functions to create various types of charts, plots, and graphs.
-Highly customizable to adjust aspects like colors, styles, labels, and annotations.
-Integrates well with other Python libraries like NumPy and Pandas for data visualization.
+* Primary plotting library in Python for creating static, interactive, and animated visualizations.
+* Offers a wide range of plotting functions to create various types of charts, plots, and graphs.
+* Highly customizable to adjust aspects like colors, styles, labels, and annotations.
+* Integrates well with other Python libraries like NumPy and Pandas for data visualization.
 
 >MySQL Connector:
 
-Enables Python programs to connect and interact with MySQL databases.
-Provides an interface to execute SQL queries, fetch data, and perform database operations.
-Supports both MySQL Server and MySQL Cluster.
-Allows for secure and efficient data retrieval and manipulation in Python applications.
+* Enables Python programs to connect and interact with MySQL databases.
+* Provides an interface to execute SQL queries, fetch data, and perform database operations.
+* Supports both MySQL Server and MySQL Cluster.
+* Allows for secure and efficient data retrieval and manipulation in Python applications.
